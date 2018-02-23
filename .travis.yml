@@ -12,5 +12,5 @@ after_script:
   - git config user.email "guowenfu@heartsone.net"
   - git add .
   - git commit -m "Travis build"
-  - git push --force --quiet "https://${GITHUB_TOKEN}@github.com/GabrielWenFu/vue-test.git" master:gh-pages
+  - git push --force --quiet "https://${GITHUB_TOKEN}@github.com/GabrielWenFu/cfs-color.git" master:gh-pages
 
