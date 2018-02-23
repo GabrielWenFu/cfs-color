@@ -8,7 +8,7 @@
 
 利用Vue.js对[中国色](http://zhongguose.com/)进行一个仿制在线色谱
 
-[项目演示地址](https://coolfishstudio.github.io/cfs-color/)
+[项目演示地址](https://gabrielwenfu.github.io/cfs-color/)
 
 ### 功能
  [√] 增加点击色块自动复制hex值功能
