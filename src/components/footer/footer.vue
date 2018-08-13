@@ -1,15 +1,10 @@
 <template>
   <footer>
-    <a href="https://github.com/coolfishstudio/cfs-color" target="_blank">
+    <a href="https://gabrielwenfu.github.io/cfs-color/" target="_blank">
       <svg class="icon" style="width: 50px; height: 50px;">
         <use xlink:href="static/icon.svg#github"></use>
       </svg>
     </a>
-    <div>
-      <a href="http://yitianyibu.com/" target="_blank">
-      yitianyibu.com
-      </a> 作品
-    </div>
   </footer>
 </template>
 
